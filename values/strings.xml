@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">eCommerceApp</string>
+    <string name="login">Login</string>
+    <string name="logo">Logo</string>
+    <string name="batesskates">Bates Skates</string>
+    <string name="shoppingcart">shoppingCart</string>
+    <string name="logoshirt">logoShirt</string>
+    <string name="logo_t_shirt">Logo T-Shirt</string>
+    <string name="_19_99">$19.99</string>
+    <string name="logo_hoodie">Logo Hoodie</string>
+    <string name="_39_99">$39.99</string>
+    <string name="logohoodie">logoHoodie</string>
+    <string name="hand_painted_skateboard">Hand-painted Skateboard</string>
+    <string name="_49_99">$49.99</string>
+    <string name="handpainted_skateboard">handpainted Skateboard</string>
+    <string name="tshirts">tshirts</string>
+    <string name="hoodies">hoodies</string>
+    <string name="skateboards">skateboards</string>
+    <string name="home">home</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="videobutton">videoButton</string>
+    <string name="checkout">checkout</string>
+    <string name="save_new_payment_billing_information">Save new payment/billing information</string>
+    <string name="use_saved_payment_information">Use saved payment information</string>
+    <string name="logo_hoodie_l">Logo Hoodie - L</string>
+</resources>
